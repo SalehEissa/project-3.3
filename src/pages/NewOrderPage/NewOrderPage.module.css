@@ -1,0 +1,31 @@
+li {
+    display: inline;
+    margin: auto;
+    padding: 15vh;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    height: 5vh;
+    border: 2px solid black
+}
+
+.about {
+    height: 9vh;
+    border: 2px solid black;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 30vh;
+    padding: 4px;
+    border-radius: 2vh;
+    background-color: bisque;
+
+
+}
